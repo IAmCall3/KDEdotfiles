@@ -1,0 +1,22 @@
+[FileDialogSize]
+2 screens: Height=724
+2 screens: Width=1076
+
+[KFileDialog Settings]
+Recent Files[$e]=nvfancontrol.sh,file:$HOME/.config/nvfancontrol.sh
+Recent URLs[$e]=file:$HOME/.config/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+2 screens: Height=529
+2 screens: Width=441
+
+[MainWindow]
+2 screens: Height=969
+2 screens: Width=1381
+2 screens: XPosition=2324
+2 screens: YPosition=214
+DP-0 HDMI-0=DP-0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABWUAAAPJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

@@ -1,0 +1,19 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[FileDialogSize]
+2 screens: Height=606
+2 screens: Width=860
+
+[General]
+clipboardGroup=PostScreenshotCopyImage
+printKeyActionRunning=StartNewInstance
+showCaptureInstructions=false
+
+[GuiConfig]
+captureMode=3
+
+[Save]
+compressionQuality=100
+defaultSaveLocation=file:///home/andrea/Pictures/Screenshots
+lastSaveLocation=file:///home/andrea/Pictures/Screenshots/Screenshot_20231209_140102.png
